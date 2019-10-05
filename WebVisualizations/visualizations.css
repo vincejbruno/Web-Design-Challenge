@@ -1,0 +1,36 @@
+p {
+  /* Put a 15-pixel margin at the bottom of the paragraph. */
+  margin-left: 15px;
+  /* Change the size of your font to 15 pixels high. */
+  font-size: 15px;
+  /* This will color the paragraph black */
+  color: black;
+  /* Align the text to the center of its enclosing element (e.g. div). */
+  text-align: left;   
+}
+
+li {
+
+    /* Put a 15-pixel margin at the bottom of the list. */
+    margin-left: 15px;
+    /* Change the size of your font to 15 pixels high. */
+    font-size: 15px;
+    /* This will color the heading font black. */
+    color: black;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left;  
+    /* Underline the list items. */
+    text-decoration: underline;
+}
+
+img {
+    /*
+      Center a block element in the middle of its enclosing tag.
+      When you use the "auto" rule on both left and right margins,
+      your browser will do the math necessary to center a block element.
+      */
+    margin-left: auto;
+    margin-right: auto;
+    /* Block display (more on this later) */
+    display: block;
+  }

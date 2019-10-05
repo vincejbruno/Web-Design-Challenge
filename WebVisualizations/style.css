@@ -1,0 +1,9 @@
+img {
+    /* Adjust width of pictures to 90% to prevent image cutoff. */
+    width: 90%;
+}
+
+li {
+  /* Underline the list items. */
+  text-decoration: underline;
+}

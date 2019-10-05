@@ -1,0 +1,35 @@
+p {
+  /* Put a 15-pixel margin to the left of the p tags. */
+  margin-left: 15px;
+  /* Change the size of your font to 15 pixels high. */
+  font-size: 15px;
+  /* This will color the heading font black. */
+  color: black;
+  /* Align the text to the center of its enclosing element (e.g. div). */
+  text-align: left;   
+}
+
+h2 {
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-left: 15px;
+    /* This will color the heading font black. */
+    color: black;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left;   
+}
+
+li {
+
+    /* Put a 15-pixel margin at the left of the heading. */
+    margin-left: 15px;
+    /* Change the size of your font to 15 pixels high. */
+    font-size: 15px;
+    /* This will color the list items black. */
+    color: black;
+    /* Align the text to the left of its enclosing element. */
+    text-align: left; 
+    /* Bold the list items. */
+    font-weight: bold;
+    /* Underline the list items. */
+    text-decoration: underline;
+}
