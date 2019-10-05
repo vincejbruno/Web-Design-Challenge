@@ -1,25 +1,23 @@
 p {
-  /* Put a 15-pixel margin at the bottom of the paragraph. */
   margin-left: 15px;
-  /* Change the size of your font to 15 pixels high. */
+
   font-size: 15px;
-  /* This will color the paragraph black */
+
   color: black;
-  /* Align the text to the center of its enclosing element (e.g. div). */
+
   text-align: left;   
 }
 
 li {
 
-    /* Put a 15-pixel margin at the bottom of the list. */
     margin-left: 15px;
-    /* Change the size of your font to 15 pixels high. */
+
     font-size: 15px;
-    /* This will color the heading font black. */
+
     color: black;
-    /* Align the text to the center of its enclosing element (e.g. div). */
+
     text-align: left;  
-    /* Underline the list items. */
+
     text-decoration: underline;
 }
 
@@ -31,6 +29,10 @@ img {
       */
     margin-left: auto;
     margin-right: auto;
-    /* Block display (more on this later) */
+    /* Block display */
     display: block;
   }
+
+h1{
+    margin-left: 15px;
+}
